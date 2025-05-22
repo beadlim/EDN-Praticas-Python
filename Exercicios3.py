@@ -29,7 +29,7 @@ while True:
         print("Erro: divisão por zero não é permitida.\n")
         continue
 
-    print(f"✅ Resultado: {a} {op} {b} = {resultado}")
+    print(f"Resultado: {a} {op} {b} = {resultado}")
     break  
 
 # 2 - Calculadora de Média com tratamento de erros
